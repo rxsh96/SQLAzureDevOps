@@ -16,7 +16,7 @@ public class App {
 			String connectionString =
 				"jdbc:sqlserver://sampledatabase.database.windows.net:1433;"
 				+ "database=MyDataBase;"
-				+ "user=estudiante@sampledatabase;"
+				+ "user=git;"
 				+ "password=Prueba12345;"
 				+ "encrypt=true;"
 				+ "trustServerCertificate=false;"
